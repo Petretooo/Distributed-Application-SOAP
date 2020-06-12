@@ -1,0 +1,15 @@
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Repository.dll.config
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Repository.dll
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Repository.pdb
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Data.dll
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\EntityFramework.dll
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Data.pdb
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\Data.dll.config
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\EntityFramework.xml
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\obj\Debug\Repository.dll
+D:\Programming\C#\CompanyProjects\CompanyProjects\Repository\obj\Debug\Repository.pdb

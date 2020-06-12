@@ -1,0 +1,50 @@
+﻿@model MVC.ViewModels.ProjectEmployeeViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProjectEmployeeViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.projectID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.projectID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.projectName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.projectName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.employeeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.employeeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.empployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.empployeeName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
